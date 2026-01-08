@@ -1,3 +1,22 @@
+# ===============================
+# Flutter / Dart (CRITICAL)
+# ===============================
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# Flutter build outputs
+build/
+linux/flutter/ephemeral/
+windows/flutter/ephemeral/
+macos/Flutter/ephemeral/
+
+# Generated plugin registrant
+**/generated_plugin_registrant.dart
+
+
+
 # Logs
 logs
 *.log
